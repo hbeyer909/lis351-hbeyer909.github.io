@@ -1,0 +1,67 @@
+
+* {
+	font-family: Arial, Verdana, sans-serif;
+	color: #000000;
+	text-align: center;
+}
+
+body {
+	width: 960px;
+	margin: 0 auto;
+	border: groove;
+	background-color: #CBC3E3; 
+}
+
+nav {background-color: #EFEFEF;
+	font-family: helvetica, serif;
+	padding: 20px;
+	margin: 20px;
+}
+
+
+li {
+	display: inline;
+	padding: 5px;
+}
+
+.moviestv {
+	padding: 5px;
+	margin: 10px;
+	width: 430px;
+	float: left;
+}
+
+.moviesorder {
+	text-align:left;
+	padding-left: 30px;
+}
+
+section {
+	overflow: auto;
+	height: 100%
+}
+
+main {
+	background-color: #efefef;
+	padding: 10px;
+	margin: 10px;
+}
+
+article {
+	background-color: #efefef;
+	padding: 15px;
+}
+
+footer {
+	background-color: #efefef;
+	padding: 10px;
+	margin: 10px;
+}
+
+
+#content {
+	overflow: auto;
+	height: 100%;}
+.column1, .column2, .column3 {
+	float: left;
+	margin: 10px;}
